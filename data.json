@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "first_name": "Silva",
+      "last_name": "Binton",
+      "email": "sbinton0@netlog.com",
+      "gender": "Female",
+      "physics": 37,
+      "chemistry": 54,
+      "maths": 11
+    },
+    {
+      "id": 2,
+      "first_name": "Oona",
+      "last_name": "Broyd",
+      "email": "obroyd1@usatoday.com",
+      "gender": "Female",
+      "physics": 38,
+      "chemistry": 88,
+      "maths": 81
+    },
+    {
+      "id": 3,
+      "first_name": "Candida",
+      "last_name": "Merfin",
+      "email": "cmerfin2@cmu.edu",
+      "gender": "Female",
+      "physics": 83,
+      "chemistry": 84,
+      "maths": 72
+    },
+    {
+      "id": 4,
+      "first_name": "Eloise",
+      "last_name": "Fearnside",
+      "email": "efearnside3@cbslocal.com",
+      "gender": "Female",
+      "physics": 66,
+      "chemistry": 66,
+      "maths": 21
+    },
+    {
+      "id": 5,
+      "first_name": "Angela",
+      "last_name": "Ielden",
+      "email": "aielden4@arizona.edu",
+      "gender": "Female",
+      "physics": 29,
+      "chemistry": 36,
+      "maths": 76
+    },
+    {
+      "id": 6,
+      "first_name": "Delmer",
+      "last_name": "Bloodworth",
+      "email": "dbloodworth5@cornell.edu",
+      "gender": "Male",
+      "physics": 46,
+      "chemistry": 19,
+      "maths": 64
+    },
+    {
+      "id": 7,
+      "first_name": "Oralie",
+      "last_name": "Rechert",
+      "email": "orechert6@nyu.edu",
+      "gender": "Female",
+      "physics": 17,
+      "chemistry": 98,
+      "maths": 15
+    },
+    {
+      "id": 8,
+      "first_name": "Nancy",
+      "last_name": "Plumptre",
+      "email": "nplumptre7@domainmarket.com",
+      "gender": "Female",
+      "physics": 75,
+      "chemistry": 18,
+      "maths": 24
+    },
+    {
+      "id": 9,
+      "first_name": "Celia",
+      "last_name": "Romayn",
+      "email": "cromayn8@sogou.com",
+      "gender": "Female",
+      "physics": 28,
+      "chemistry": 56,
+      "maths": 50
+    },
+    {
+      "id": 10,
+      "first_name": "Alexei",
+      "last_name": "Arrandale",
+      "email": "aarrandale9@purevolume.com",
+      "gender": "Male",
+      "physics": 70,
+      "chemistry": 56,
+      "maths": 67
+    },
+    {
+      "id": 11,
+      "first_name": "Agustin",
+      "last_name": "Burgan",
+      "email": "aburgana@desdev.cn",
+      "gender": "Male",
+      "physics": 1,
+      "chemistry": 22,
+      "maths": 17
+    },
+    {
+      "id": 12,
+      "first_name": "Lidia",
+      "last_name": "Coward",
+      "email": "lcowardb@jigsy.com",
+      "gender": "Female",
+      "physics": 32,
+      "chemistry": 91,
+      "maths": 54
+    },
+    {
+      "id": 13,
+      "first_name": "Sherilyn",
+      "last_name": "Keel",
+      "email": "skeelc@upenn.edu",
+      "gender": "Female",
+      "physics": 24,
+      "chemistry": 29,
+      "maths": 1
+    },
+    {
+      "id": 14,
+      "first_name": "Jacky",
+      "last_name": "Gudgen",
+      "email": "jgudgend@bloomberg.com",
+      "gender": "Female",
+      "physics": 48,
+      "chemistry": 100,
+      "maths": 41
+    },
+    {
+      "id": 15,
+      "first_name": "Kara",
+      "last_name": "Callaby",
+      "email": "kcallabye@hp.com",
+      "gender": "Female",
+      "physics": 74,
+      "chemistry": 49,
+      "maths": 65
+    },
+    {
+      "id": 16,
+      "first_name": "Janina",
+      "last_name": "Renton",
+      "email": "jrentonf@constantcontact.com",
+      "gender": "Female",
+      "physics": 36,
+      "chemistry": 100,
+      "maths": 89
+    },
+    {
+      "id": 17,
+      "first_name": "Sunny",
+      "last_name": "Benjamin",
+      "email": "sbenjaming@flickr.com",
+      "gender": "Male",
+      "physics": 76,
+      "chemistry": 25,
+      "maths": 7
+    },
+    {
+      "id": 18,
+      "first_name": "Elane",
+      "last_name": "Laughton",
+      "email": "elaughtonh@live.com",
+      "gender": "Female",
+      "physics": 31,
+      "chemistry": 30,
+      "maths": 90
+    },
+    {
+      "id": 19,
+      "first_name": "Chevy",
+      "last_name": "Measom",
+      "email": "cmeasomi@apache.org",
+      "gender": "Male",
+      "physics": 38,
+      "chemistry": 38,
+      "maths": 3
+    },
+    {
+      "id": 20,
+      "first_name": "Tess",
+      "last_name": "Spensly",
+      "email": "tspenslyj@newsvine.com",
+      "gender": "Female",
+      "physics": 81,
+      "chemistry": 99,
+      "maths": 4
+    }
+  ]
+  
